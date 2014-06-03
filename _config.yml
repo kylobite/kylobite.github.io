@@ -1,0 +1,13 @@
+# Site settings
+title: kyloblog
+email: kylolink@domain.com
+description: "A blog that takes you on a journey through insanity via the mind of kylobite."
+baseurl: ""
+url: "http://kylobite.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Other settings
+port: 8124
